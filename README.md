@@ -1,1 +1,1 @@
-BookBot is my first project!
+bookbot is just a letter counter test (for now)
